@@ -6,3 +6,4 @@ build/
 .venv/
 coverage/
 tmp/
+*.tmp
