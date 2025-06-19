@@ -1,6 +1,6 @@
 {
   "name": "whoop-mcp",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Read-only WHOOP MCP server for recovery, sleep, HRV, strain, workouts, and personal health analytics in Claude, Codex, and GitHub Copilot.",
   "main": "src/index.ts",
   "scripts": {
